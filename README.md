@@ -5,7 +5,7 @@
 pip3 install -r requirements.txt
 ```
 
-### This project can be run locally by execting `visualisation.py`
+### This project can be run locally by executing `visualisation.py`
 ```
 python3 visualisation.py
 ```
